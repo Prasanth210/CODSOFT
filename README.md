@@ -1,4 +1,3 @@
-@java
 Task 1: 
 Random Number Game
 The Random Number Game is a simple Java program where the user has to guess a randomly generated number within a specified range. The program provides hints to guide the user towards the correct answer and keeps track of the number of attempts taken.
